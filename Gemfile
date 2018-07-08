@@ -32,6 +32,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 
 # Frontend
+gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.3.7'
 
 group :development, :test do
